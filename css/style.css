@@ -25,7 +25,8 @@ h1,
 h2,
 p,
 a,
-li {
+li,
+.header-logo{
   font-size: 1.5rem;
   line-height: 1.2;
   color: #000;
@@ -360,7 +361,8 @@ media query tablet
   h2,
   p,
   a,
-  li {
+  li,
+	.header-logo {
     font-size: 5rem;
   }
 
