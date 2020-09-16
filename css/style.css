@@ -8,6 +8,7 @@ GLOBAL
   margin: 0;
   word-break: break-word;
   cursor: url(../img/default.png) 9 3, auto;
+  font-size: 14px;
 }
 
 a:hover {
@@ -81,11 +82,10 @@ HEADER
 }
 
 .header-logo a {
-  font-size: 3em;
-  line-height: 1;
+  font-size: 5em;
+  line-height: 1.2;
   text-decoration: none;
-  letter-spacing: -0.1rem;
-  font-variant-caps: small-caps;
+  letter-spacing: -0.2rem;
 }
 
 @keyframes colors {
