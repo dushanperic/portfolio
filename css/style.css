@@ -11,7 +11,8 @@ GLOBAL
   font-size: 14px;
 }
 
-a:hover {
+a:hover ,
+.header-logo:hover {
   cursor: url(../img/hover.png) 9 3, auto;
 }
 
@@ -81,7 +82,7 @@ HEADER
   align-items: flex-start;
 }
 
-.header-logo a {
+.header-logo {
   font-size: 2rem;
   line-height: 1.2;
   color: #000;
