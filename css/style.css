@@ -82,10 +82,10 @@ HEADER
 }
 
 .header-logo a {
-  font-size: 5em;
   line-height: 1.2;
-  text-decoration: none;
-  letter-spacing: -0.2rem;
+  color: #000;
+  letter-spacing: -2px;
+  font-size: 5rem;
 }
 
 @keyframes colors {
